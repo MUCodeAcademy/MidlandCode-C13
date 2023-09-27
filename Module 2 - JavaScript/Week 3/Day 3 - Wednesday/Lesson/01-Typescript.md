@@ -2,7 +2,7 @@
 
 ## What is TypeScript?
 
-It might sound incredibly simple, but TypeScript is basically JavaScript with types. So what does that mean? If we declare a variable in JS we would usually use: `let x = 5` or simply `let x` if we didn't know a starting value. JavaScript though doesn't care what value or type of value is going to be stored. We could do all of the following in order and get no errors:
+It might sound incredibly simple, but TypeScript is basically JavaScript with types. So what does that mean? If we declare a variable in JS we would usually use: `let x = 5` or simply `let x` if we didn't know a starting value. JavaScript, however, doesn't care what value or type of value is going to be stored. We could do all of the following in order and get no errors:
 
 ```javascript
 let x = 5;
