@@ -71,7 +71,7 @@ function getResponse() {
 }
 ```
 
-Sure you could pull the internal promise out to a function but that can cause some potentially weird issues. Let's also say that the internal promise would NEVER cause an error. What then? As you can see above, that whole call is inside of the function `getResponse`. In order to use an async await pattern, you must first let the code know it will be an asynchronous function. This is done by pre-pending it with the keyword `async` like: `const getResponse = async () =>{}`. From there you can use a try catch block and the await keyword. The await keyword basically tells the code to wait to use that variable until it has received asynchronous data. With that pattern, the second example above could be cleared up to:
+Sure you could pull the internal promise out to a function but that can cause some potentially weird issues. Let's also say that the internal promise would NEVER cause an error. What then? As you can see above, that whole call is inside of the function `getResponse`. In order to use an async await pattern, you must first let the code know it will be an asynchronous function. This is done by pre-pending it with the keyword `async` like: `async function getResponse() {}`. From there you can use a try catch block and the await keyword. The await keyword basically tells the code to wait to use that variable until it has received asynchronous data. With that pattern, the second example above could be cleared up to:
 
 ```javascript
 async function getResponse() {
