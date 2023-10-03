@@ -1,6 +1,6 @@
 # Classwork - Finale for Modules 1 and 2
 
-You will be working on several projects today and over the weekend depending on what all you accomplish today. First off would be to finish any work you haven't completed so far. From there, you have three options that you can choose from. You are expected to complete one, but given time, try your hand at others as well.
+You will be working on several projects today and over the next week depending on what all you accomplish today. First off would be to finish any work you haven't completed so far. From there, you have three options that you can choose from. You are expected to complete one, but given time, try your hand at others as well.
 
 Once you complete the project, send the Github link to the repository on Slack, so I can start writing code reviews.
 
