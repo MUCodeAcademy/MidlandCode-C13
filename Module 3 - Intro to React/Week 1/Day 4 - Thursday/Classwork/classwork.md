@@ -1,6 +1,6 @@
 # Classwork
 
-Take our project we started yesterday and let's add some actual state to it!.
+Take our project we started yesterday and let's add some actual state to it.
 
 - Try to add the element to the array of Todos itself so it displays to the page, to see how that will work.
 - Try adding sorting and/or filtering to the list of displayed todos
