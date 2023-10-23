@@ -8,7 +8,7 @@ In our work so far, we talked about breaking things down into smaller components
 4. Pages - Just that, an individual page
 5. Templates - Overarching layouts for pages
 
-Let's take a look at a working example [here](https://github.com/diegohaz/arc/wiki/Atomic-Design)
+Another example [here](https://github.com/diegohaz/arc/wiki/Atomic-Design)
 
 Something that is worth noting is that the terms above are simply to put it into the atomic / scientific naming scope. Usually this is dropped for more semantic terms. So instead of the above it _could_ be something like:
 
