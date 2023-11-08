@@ -27,4 +27,4 @@ const memoNextDue = useMemo(
 );
 ```
 
-Now with the above those values will only be re-calculated when the todos array itself changes. Remember when we talked about the importance of immutability? That is because by having immutability, the memo will be able to make a reference comparison and thereby tell when it needs to re-calculate those derived pieces of state.
+Now with the above those values will only be re-calculated when the todos array itself changes.
