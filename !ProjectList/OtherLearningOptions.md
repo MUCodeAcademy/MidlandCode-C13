@@ -24,7 +24,7 @@ As mentioned at the very beginning of the cohort, there's a lot of websites that
 
 ## Books
 
-There are many programming books, but here are 3 that I've read and are pretty popular among programmers that add to what we learn in class.
+There are many programming books, but here are 3 that I've read and are pretty popular among programmers that supplement what we're learning in class.
 
 - ***Intro to Algorithms 4th Edition*** by Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein. Link to purchase on Amazon: https://www.amazon.com/Introduction-Algorithms-fourth-Thomas-Cormen/dp/026204630X
 
