@@ -34,7 +34,7 @@
 
 6. What function arguments are available to Express JS route handlers / middleware and what are they?
 
-7. How would you set a status and send a response?
+7. How would you send a response?
 
 8. Will the following code cause any errors if a user went to that route? Explain why or why not.
 
