@@ -2,7 +2,7 @@
 
 #### Finish setting up the database for the giphy app:
 
-- Try to make a query for login, and another for register
+- Try to make an endpoint for register, and another for login
     - If the user registers, add the username/password to the table
     - If the username already exists, tell that to the user
     - If the user logs in, check if that data is in the table
