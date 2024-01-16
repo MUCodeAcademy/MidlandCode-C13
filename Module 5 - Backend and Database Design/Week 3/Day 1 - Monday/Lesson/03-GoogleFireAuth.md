@@ -1,6 +1,6 @@
 # Google Fire Auth
 
-One of the more difficult things about securing an application is making sure you have correct authentication. As we saw with passport, there are a lot of moving factors that can impact the process. In addition, your security is only as good as your code. What happens though if you want to be able to have someone log in through google, but don't really need any more information than that? Google fire auth can help immensely with that.
+One of the more difficult things about securing an application is making sure you have correct authentication. As we saw with passport, there are a lot of moving factors that can impact the process. In addition, your security is only as good as your code. What happens though if you want to be able to have someone log in through Google, but don't really need any more information than that? Google fire Auth can help immensely with that.
 
 ## Pros
 

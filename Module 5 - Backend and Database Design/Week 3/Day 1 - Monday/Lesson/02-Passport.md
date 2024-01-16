@@ -4,7 +4,7 @@ OAuth is an open authorization framework that allows for services to share asset
 
 # Passport.js
 
-[Passport](http://www.passportjs.org/docs/authenticate/) is a library for node.js that provides multiple authentication options. It has built in functionality for OAuth, OAuth 2.0 AND Facebook, Twitter, Google, and many others.
+[Passport](https://www.passportjs.org/) is a library for node.js that provides authentication middleware options. It has built in functionality for OAuth, OAuth 2.0 AND Facebook, Twitter, Google, and many others.
 
 ## Setting it up can be a bit tricky the first Time
 
@@ -59,8 +59,7 @@ app.use(passport.session());
 From there you can implement it either in a route directly OR as middle ware as below:
 
 ```javascript
-// passport.authenticate("local") tells the server 
-//to handle the request at /login with the 'local' strategy.
+// passport.authenticate("local") tells the server to handle the request at /login with the 'local' strategy.
 app.post("/login", passport.authenticate("local"), function (req, res) {
   // If this function gets called, authentication was successful.
   // `req.user` contains the authenticated user.
