@@ -5,19 +5,19 @@
 ORMs take schemas from databases and build queries for easier scaffolding of APIs. They're going out of favor in some places but they are still used a lot especially in smaller companies where they might not have the overhead to build out fully-fledged APIs. One of the biggest libraries is [GraphQL](https://graphql.org/code/#javascript). It has support for multiple different languages. An example from the docs for express is:
 
 ```javascript
-var express = require("express");
-var graphqlHTTP = require("express-graphql");
-var { buildSchema } = require("graphql");
+const express = require("express");
+const graphqlHTTP = require("express-graphql");
+const { buildSchema } = require("graphql");
 
-var schema = buildSchema(`
+const schema = buildSchema(`
   type Query {
     hello: String
   }
 `);
 
-var root = { hello: () => "Hello world!" };
+const root = { hello: () => "Hello world!" };
 
-var app = express();
+const app = express();
 app.use(
   "/graphql",
   graphqlHTTP({
