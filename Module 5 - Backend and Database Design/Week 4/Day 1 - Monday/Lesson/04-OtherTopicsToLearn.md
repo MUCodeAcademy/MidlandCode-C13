@@ -53,4 +53,4 @@ One of the most commonly misunderstood topics in CS are algorithms. By definitio
 
 ## Standard Patterns
 
-One thing that can help you out is getting down design patterns. A great resource for this is [patterns.dev]. It is a fantastic resource you should use if at all possible.
+One thing that can help you out is getting down design patterns. A great resource for this is [patterns.dev](https://www.patterns.dev). It is a fantastic resource you should use if at all possible.
