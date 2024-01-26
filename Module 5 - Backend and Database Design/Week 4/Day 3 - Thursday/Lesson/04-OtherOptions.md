@@ -25,7 +25,7 @@ Alternative to Vercel. Just connect a Github repo and you're done. Also requires
 
 ## [Fly.io](https://fly.io)
 
-Fly.io is the free-est way to deploy a frontend, backend, and database using Docker. This is the one we will be using in class because it's free and we are able to use Docker. Here is a [guide](https://fly.io/docs/apps/deploy).
+Fly.io is the free-est way to deploy a frontend, backend, and database using Docker. This is the one we will be using in class because it's free and we are able to use Docker. Here is a [guide](https://fly.io/docs/apps/deploy). Also install [flyctl](https://fly.io/docs/hands-on/install-flyctl).
 
 ## [Digital Ocean](https://www.digitalocean.com)
 
